@@ -1,0 +1,19 @@
+{
+  "id": "c0687f99-2dc7-42bb-9094-e1c74453b8a3",
+  "name": "application1_environment",
+  "values": [
+    {
+      "key": "token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxMWRlZDVjMGFjMjAxMmFjMDI4ODkxZiIsInVzZXJuYW1lIjoiYWRtaW4iLCJpYXQiOjE2MjkzNTEyNzAsImV4cCI6MTYyOTk1MTI3MH0.BJ-WKjNYeFDQ4pn8kfli5gwn6GLz_c3voFht20Agj9k",
+      "enabled": true
+    },
+    {
+      "key": "url",
+      "value": "http://localhost:8080",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2021-09-24T08:51:03.465Z",
+  "_postman_exported_using": "Postman"
+}
